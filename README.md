@@ -24,6 +24,16 @@ How did these changes vary?
 ### Data Cleanup and Exploration
 ![](images/DataCleanup.png)
 
+### Data Analysis
+Age and Crime Relationship 
+* Assault 3 and related offenses is the most committed crime by both groups. 
+* Offenses types slightly vary among these two groups in top 15 crimes.
+* Grand Larceny of Motor Vehicle and burglary went up for group 18-24 in 2020.
+* Group 25-44 has much higher rate of committing crimes than group 18-24.
+* Overall, crime had declined significantly for both groups.
+Trends by location
+* Brooklyn is the most targeted location by offenders in 2019 and 2020. 
+
 
 
 
