@@ -22,6 +22,7 @@ How did these changes vary?
 * https://data.cityofnewyork.us/Health/COVID-19-Daily-Counts-of-Cases-Hospitalizations-an/rc75-m7u3
 
 ### Data Cleanup and Exploration
+![](images/DataCleanup.png)
 
 
 
