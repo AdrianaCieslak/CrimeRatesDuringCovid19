@@ -17,10 +17,12 @@ How did these changes vary?
 * How do the trends vary by location?
 
 ### Data Sources 
-To answer these question we have used couple data
 * https://data.cityofnewyork.us/Public-Safety/NYPD-Arrest-Data-Year-to-Date-/uip8-fykc
 * https://data.cityofnewyork.us/Public-Safety/NYPD-Arrests-Data-Historic-/8h9b-rp9u
 * https://data.cityofnewyork.us/Health/COVID-19-Daily-Counts-of-Cases-Hospitalizations-an/rc75-m7u3
+
+### Data Cleanup and Exploration
+
 
 
 
